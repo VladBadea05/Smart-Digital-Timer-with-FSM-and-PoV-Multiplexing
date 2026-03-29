@@ -28,3 +28,4 @@ Set Mode: The system reads the potentiometer values and dynamically updates the 
 Countdown Mode: The timer strictly decrements every 1000ms while maintaining the display refresh rate.
 
 Alarm Mode: Once the time reaches 00:00, the system triggers an audible piezoelectric alarm before automatically resetting to the Set Mode for a new cycle.
+<img width="551" height="527" alt="image" src="https://github.com/user-attachments/assets/9da65293-7e24-472a-bfde-0c029e05d8c3" />
